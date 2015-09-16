@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 彌沙塞部和醯五分律
+#+DATE: 2015-08-30 20:39:05.962487
+#+PROPERTY: JUAN 0
