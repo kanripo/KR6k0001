@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:39:05.031762
+#+DATE: 2015-08-30 20:39:15.403278
 #+TITLE: 彌沙塞部和醯五分律
 #+PROPERTY: CBETA_ID T22n1421
 #+PROPERTY: ID KR6k0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 22, No. 1421
 #+PROPERTY: VOL 22
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0001_T_016-0108a> 
 #+PROPERTY: JUAN 16
 ¶
-
- 《五分律》卷第十六(彌沙塞)¶
+《五分律》卷第十六(彌沙塞)¶
 ¶
 宋罽賓三藏佛陀什¶
 共竺道生等譯¶

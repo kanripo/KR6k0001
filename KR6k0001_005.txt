@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:39:04.656347
+#+DATE: 2015-08-30 20:39:15.034773
 #+TITLE: 彌沙塞部和醯五分律
 #+PROPERTY: CBETA_ID T22n1421
 #+PROPERTY: ID KR6k0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 22, No. 1421
 #+PROPERTY: VOL 22
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0001_T_005-0030b> 
 #+PROPERTY: JUAN 5
 ¶
-
- 《五分律》卷第五(彌沙塞)¶
+《五分律》卷第五(彌沙塞)¶
 ¶
 宋罽賓三藏佛陀什¶
 共竺道生等譯¶
@@ -450,7 +449,7 @@
 老比丘聞種種呵責。以是白佛。佛以是事集¶
 比丘僧。問諸比丘。汝等實爾不。答言。實爾世¶
 尊。佛種種呵責已告諸比丘。以十利故為諸¶
-比丘結戒。從今是戒應如是說。若比丘新憍
+此丘結戒。從今是戒應如是說。若比丘新憍
 <pb:KR6k0001_T_005-0035a>¶
 賒耶作臥具。尼薩耆波逸提。¶
 

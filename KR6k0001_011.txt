@@ -1,28 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:39:04.876227
+#+DATE: 2015-08-30 20:39:15.249849
 #+TITLE: 彌沙塞部和醯五分律
 #+PROPERTY: CBETA_ID T22n1421
 #+PROPERTY: ID KR6k0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 22, No. 1421
 #+PROPERTY: VOL 22
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0001_T_011-0077b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 《五分律》卷第十一(彌沙塞)¶
+《五分律》卷第十一(彌沙塞)¶
 ¶
 宋罽賓三藏佛陀什¶
 共竺道生等譯¶
 
-第二分
-1尼律波羅夷法
-:PROPERTIES:
-:head: 第二分初尼律波羅夷法
-:END:
-¶
+第二分初尼律波羅夷法¶
 
 佛在舍衛城。爾時長老優波離問佛。世尊已¶
 為諸比丘結戒。若比丘共諸比丘同學戒法。
@@ -154,11 +148,7 @@
 捨定。及八難起皆不犯。八難者。一病二王三¶
 賊四水五火六衣鉢七命八梵行(八重法竟)。¶
 
-2尼律僧殘法
-:PROPERTIES:
-:head: 《五分律》第二分之二尼律僧殘法
-:END:
-¶
+《五分律》第二分之二尼律僧殘法¶
 
 爾時長老優波離問佛。世尊已為諸比丘結¶
 戒。若比丘行媒法乃至一交會僧伽婆尸沙。¶

@@ -1,21 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:39:04.798463
+#+DATE: 2015-08-30 20:39:15.179171
 #+TITLE: 彌沙塞部和醯五分律
 #+PROPERTY: CBETA_ID T22n1421
 #+PROPERTY: ID KR6k0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 22, No. 1421
 #+PROPERTY: VOL 22
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0001_T_009-0062c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《五分律》卷第九(彌沙塞)¶
+《五分律》卷第九(彌沙塞)¶
 ¶
-宋罽賓三藏佛陀什¶
-共竺道生等譯¶
+宋罽賓三藏佛陀什共竺道生等譯¶
 第一分之五第六十四事¶
 
 佛在舍衛城。爾時六群比丘數數犯戒。諸¶
@@ -840,8 +838,7 @@
 以是事集比丘僧。問難陀跋難陀。汝實爾不。¶
 答言。實爾世尊。佛種種呵責已。告諸比丘。今¶
 為諸比丘結戒。從今是戒應如是說。若比丘¶
-知檀越欲與僧物迴與餘人波逸提。餘如迴¶
-欲與僧物入已中說(九十一竟)。¶
+知檀越欲與僧物迴與餘人波逸提。餘如迴欲與僧物入已中說(九十一竟)。¶
 《五分律》卷第九
 <pb:KR6k0001_T_009-0071c>¶
 
